@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Web Developer
 ------------------------
 
-\- 📚 I'm currently learning full-stack web development using Javascript. Also dipping my toes in cloud development.
+- 📚 I'm currently learning full-stack web development using Javascript. Also dipping my toes in cloud development.
 - ⚡ In my free time I play video games and watch anime!
 
 * 🌍  I'm based in Nairobi, Kenya
