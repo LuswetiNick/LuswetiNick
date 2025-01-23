@@ -5,6 +5,7 @@ Full-stack Web Developer
 ------------------------
 
 - 📚 I'm currently learning full-stack web development using Javascript. Also dipping my toes in cloud development.
+- 📚 I'm learning Virtual Assistant skills at alx Kenya.
 - ⚡ In my free time I play video games and watch anime!
 
 * 🌍  I'm based in Nairobi, Kenya
