@@ -7,7 +7,7 @@ Full-stack Web Developer
 \- 📚 I'm currently learning full-stack web development using Javascript. Also dipping my toes in DevOps. - ⚡ In my free time I play video games and watch anime!
 
 * 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [nicklusweti@protonmail.com](mailto:luswetideveloper@gmail.com)
+* ✉️  You can contact me at [luswetideveloper@gmail.com](mailto:luswetideveloper@gmail.com)
 * 🚀  I'm currently working on [I am currently working on building my personal portfolio]([http://personal-portfolio-dq1u.vercel.app/](https://personal-portfolio-rouge-eta-70.vercel.app/))
 * ⚡  I like anime too! 🙂
 
