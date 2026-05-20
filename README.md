@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Web Developer
 ------------------------
 
-\- 📚 I'm currently learning full-stack web development using Javascript. Also dipping my toes in DevOps. - ⚡ In my free time I play video games and watch anime!
+\- 📚 I'm a full-stack web developer using Javascript. Also dipping my toes in DevOps. - ⚡ In my free time I play video games and watch anime!
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [luswetideveloper@gmail.com](mailto:luswetideveloper@gmail.com)
-* 🚀  I'm currently working on [I am currently working on building my personal portfolio]([http://personal-portfolio-dq1u.vercel.app/](https://personal-portfolio-rouge-eta-70.vercel.app/))
+* 🚀  Checkout my portfolio [I am currently working on building my personal portfolio]([http://personal-portfolio-dq1u.vercel.app/](https://personal-portfolio-rouge-eta-70.vercel.app/))
 * ⚡  I like anime too! 🙂
 
 ### Skills
