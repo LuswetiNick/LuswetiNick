@@ -8,7 +8,7 @@ Full-stack Developer
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [luswetideveloper@gmail.com](mailto:luswetideveloper@gmail.com)
-* 🚀  Checkout my portfolio here: [Portfolio](luswetinick.cc.cd/)
+* 🚀  Checkout my portfolio here: [Portfolio](https://luswetinick.cc.cd/)
 * ⚡  I like anime too! 🙂
 
 ### Skills
